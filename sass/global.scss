@@ -99,6 +99,7 @@ h1 {
 	    text-shadow: #fff 1px 1px 0px;
 		line-height: 80px;
 		border-bottom: none;
+		margin-top: 0;
 	}
 
 	img {
@@ -391,7 +392,7 @@ position: relative;
     width: 33.33%;
     padding-top:20px;
     float:left;
-	 text-align: center;
+	text-align: center;
 
 	&:after {
 		content: "";
@@ -404,7 +405,6 @@ position: relative;
 	div {
 	  height:64px;
 	  line-height:64px;
-	  padding-left:8px;
 	  color:#fff;
 	  font-weight:bold;
 
@@ -575,9 +575,9 @@ div.serviceWrap {
 }
 
 img.photo {
-  padding:6px 6px 36px 6px;
+  padding:9px 9px 36px 9px;
   background-color:#fff;
-  border:1px solid #ccc;
+  border:1px solid #ddd;
   box-shadow:#777 8px 8px 18px;
 }
 

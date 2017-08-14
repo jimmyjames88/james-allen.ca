@@ -49,6 +49,7 @@
     padding:60px 60px;
     border:1px solid #c9c9c9;
     box-shadow:#999 6px 6px 20px;
+
   }
 
   .content.paper .resume_name {
