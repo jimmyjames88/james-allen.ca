@@ -1,15 +1,24 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>James Allen | Calgary Web Design &amp; Development Consultant</title>
+		<title>James Allen - Calgary Website Design &amp; Development</title>
 
 		<meta name="description" content="Professional portfolio of James Allen. Freelance web developer and UI/UX designer in Calgary, Alberta" />
 		<meta name="keywords" content="James Allen, Calgary Website Design, Okotoks Website Design, Freelance, Website Developer, UI/Ux Designer" />
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
+		<meta property="fb:app_id" content="114353651982658" />
+		<meta property="og:image" content="https://james-allen.ca/images/tux-guitar.png"/>
+		<meta property="og:title" content="Calgary Website Design & Development"/>
+		<meta property="og:description" content="Professional portfolio of James Allen. Freelance web developer and UI/UX designer in Calgary, Alberta" />
+		<meta property="og:url" content="https://james-allen.ca"/>
+		<meta property="og:site_name" content="James Allen Portfolio"/>
+		<meta property="og:type" content="website"/>
+
 		<link rel="icon" href="images/favicon.png" type="image/png" />
 		<link rel="stylesheet" type="text/css" media="screen" href="css/bootstrap.min.css" />
 		<link rel="stylesheet" type="text/css" media="all" href="css/global.css" />
+		<link rel="stylesheet" type="text/css" media="all" href="css/resume.css" />
 		<link rel="stylesheet" type="text/css" media="all" href="css/media-queries.css" />
 		<link rel="stylesheet" type="text/css" media="screen" href="css/font-awesome.min.css" />
 		<link rel="stylesheet" type="text/css" media="screen" href="css/animate.css" />
