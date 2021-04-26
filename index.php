@@ -91,7 +91,7 @@
 						</a>
 					</div>
 					<div class="footerQ">
-						<a href="https://linkedin.com/jamesallenyyc">
+						<a href="https://linkedin.com/in/james-allen-yyc">
 							<i class="fab fa-linkedin"></i>
 							<br>LinkedIn
 						</a>
