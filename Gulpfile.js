@@ -16,7 +16,6 @@ function connectsync() {
         // a standalone PHP server that browsersync connects to via proxy
         port: 3000,
         keepalive: true,
-        base: "dev"
     }, function (){
         browsersync({
             proxy: '127.0.0.1:3000'
@@ -31,9 +30,9 @@ function browserSyncReload(done) {
 }
 
 function doSass(done) {
-	src('dev/sass/*.scss')
+	src('sass/*.scss')
 		.pipe(sass().on('error', sass.logError))
-		.pipe(dest('dev/css'));
+		.pipe(dest('css'));
 		done();
 }
 
