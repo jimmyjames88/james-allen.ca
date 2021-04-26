@@ -91,7 +91,7 @@
 						</a>
 					</div>
 					<div class="footerQ">
-						<a href="https://linkedin.com/in/james-allen-yyc">
+						<a href="https://linkedin.com/in/james-allen-yyc" target="_blank">
 							<i class="fab fa-linkedin"></i>
 							<br>LinkedIn
 						</a>
