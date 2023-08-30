@@ -2,24 +2,10 @@
   "name": "james-allen.ca",
   "version": "1.0.0",
   "description": "",
-  "main": "Gulpfile.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "browser-sync": "^2.26.14",
-    "gulp": "^4.0.2",
-    "gulp-clean": "^0.4.0",
-    "gulp-connect-php": "^1.0.3",
-    "gulp-util": "^3.0.8"
-  },
-  "devDependencies": {
-    "gulp-connect-php7": "^1.0.1",
-    "gulp-sass": "^3.2.1",
-    "lodash.template": "^4.5.0",
-    "lodash.templatesettings": "^4.2.0",
-    "yargs-parser": "^14.0.0"
-  }
+  "license": "ISC"
 }

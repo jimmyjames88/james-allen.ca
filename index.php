@@ -1,10 +1,22 @@
 <!DOCTYPE html>
 <html>
 	<head>
+		<!-- 
+			Dear Hiring Manager,
+
+			I built this website back in 2012. I made it mobile responsive some time around 2016.
+			Aside from that, it hasn't received any major updates beyond occasionally updating my
+			portfolio and resume.  I receive plenty of compliments on it (from non devs) so I am relucant
+			to replace it :D
+
+			Anyways, don't judge it too harshly.  It was kinda nifty for it's time! 
+
+			- James
+		-->
 		<title>James Allen - Calgary Website Design &amp; Development</title>
 
 		<meta name="description" content="Professional portfolio of James Allen. Freelance web developer and UI/UX designer in Calgary, Alberta" />
-		<meta name="keywords" content="James Allen, Calgary Website Design, Okotoks Website Design, Freelance, Website Developer, UI/Ux Designer" />
+		<meta name="keywords" content="James Allen, Calgary Website Design, Okotoks Website Design, Freelance, Website Developer, UI/UX Designer" />
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
 		<meta property="fb:app_id" content="114353651982658" />
@@ -60,7 +72,7 @@
 						<li><a href="#!/home">Home</a></li>
 						<li><a href="#!/services">Services</a></li>
 						<li><a href="#!/portfolio">Portfolio</a></li>
-						<li><a href="#!/resume">Resume</a></li>
+						<li><a href="/resume/Resume-James-Allen-20230830.pdf" target="_blank">Resume</a></li>
 						<li><a href="#!/contact" class="scrollBottom">Contact</a></li>
 					</ul>
 					<div id="hamburger-button" class="hide-desktop">Menu </div>

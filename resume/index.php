@@ -8,7 +8,7 @@
 			</div>
 			<div class="col-xs-7">
 				<p class="text-right">
-					<a href="/resume/James-Allen-Resume-Apr2021.pdf" target="_blank">
+					<a href="/resume/Resume-James-Allen-20230830.pdf" target="_blank">
 						<strong>
 							<span class="pdficon"></span> View PDF Version
 						</strong>

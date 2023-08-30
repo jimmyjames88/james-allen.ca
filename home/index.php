@@ -26,8 +26,13 @@
 			<img src="images/james.jpg" class="photo" /><br /><br />
 			<span class="sub">Here's a picture of me beating up some little kids!</span>
 		</div>
-		<p>Hello, my name is James Allen. I'm a website designer &amp; developer from Calgary, Alberta. </p>
-		<p>My passion is building websites, and helping businesses of all sizes realize their online potential. I offer over 14 years of professional experience in all aspects of design and development. My versatile knowledge of front-end, back-end, and design make me a strong addition to any production team.</p>
-		<p>I currently pursuing part-time and freelance contract opportunities. </p>
+		<p>Hello, my name is James Allen. I'm a website developer from Calgary, Alberta. </p>
+		<p>
+			My passion is building websites, and helping businesses of all sizes realize their online
+			potential. I offer over 17 years of professional experience in all aspects of design and
+			development. My versatile knowledge of front-end, back-end, and design make me a strong
+			addition to any production team.
+		</p>
+		<p>I currently pursuing full-time and freelance contract opportunities. </p>
 	</div>
 </div>
