@@ -1,10 +1,16 @@
 @media screen and (max-width: 1023px) {
   #footer .footerQ {
-    width: 50%; }
+    width: 50%;
+  }
+
   #footer #copyright {
-    text-align: left; }
-    #footer #copyright > div {
-      float: none; }
+    text-align: left;
+  }
+
+  #footer #copyright>div {
+    float: none;
+  }
+
   h1.title {
     font-size: 48px;
     text-transform: uppercase;
@@ -12,26 +18,42 @@
     text-shadow: #fff 1px 1px 0px;
     line-height: 0.85em;
     border-bottom: none;
-    margin-left: 0; }
-    h1.title .red.small {
-      font-size: 12vw;
-      letter-spacing: -0.075em; }
+    margin-left: 0;
+  }
+
+  h1.title .red.small {
+    font-size: 12vw;
+    letter-spacing: -0.075em;
+  }
+
   .hide-mobile {
-    display: none !important; }
+    display: none !important;
+  }
+
   .hide-desktop {
-    display: initial; }
+    display: initial;
+  }
+
   #main .content {
     width: 100%;
     max-width: 960px;
-    padding: 0 20px; }
-    #main .content.paper {
-      padding: 10px;
-      margin: 0 10px;
-      width: auto; }
+    padding: 0 20px;
+  }
+
+  #main .content.paper {
+    padding: 10px;
+    margin: 0 10px;
+    width: auto;
+  }
+
   #main .leftColumn {
-    width: 100%; }
+    width: 100%;
+  }
+
   #main .wrap {
-    margin-top: 100px; }
+    margin-top: 100px;
+  }
+
   #primary-nav {
     background-color: #fe202b;
     width: 140px;
@@ -45,66 +67,112 @@
     -moz-transition: all 0.2s ease;
     -o-transition: all 0.2s ease;
     -ms-transition: all 0.2s ease;
-    transition: all 0.2s ease; }
-    #primary-nav li {
-      padding: 8px 14px; }
+    transition: all 0.2s ease;
+  }
+
+  #primary-nav li {
+    padding: 8px 14px;
+  }
+
   body.hamburger-open #main {
-    left: -140px; }
+    left: -140px;
+  }
+
   body.hamburger-open #primary-nav {
-    left: calc(100% - 140px); }
+    left: calc(100% - 140px);
+  }
+
   body.hamburger-open #hamburger-button {
     background-color: #fe202b;
-    color: #FFF; }
+    color: #FFF;
+  }
+
   #primary-nav li {
-    list-style-type: none !important; }
-    #primary-nav li a {
-      color: #FFF; }
+    list-style-type: none !important;
+  }
+
+  #primary-nav li a {
+    color: #FFF;
+  }
+
   #header #headerRight {
-    height: 70px; }
+    height: 70px;
+  }
+
   #header #headerLeft {
     height: 70px;
-    width: 100%; }
-    #header #headerLeft .content {
-      width: 100%; }
-    #header #headerLeft #logo {
-      margin-top: 16px;
-      margin-left: 12px;
-      margin-top: 18px; }
-      #header #headerLeft #logo h1 {
-        font-size: 42px;
-        margin-bottom: 0;
-        padding-bottom: 2px; }
-      #header #headerLeft #logo h2 {
-        font-size: 14px; }
+    width: 100%;
+  }
+
+  #header #headerLeft .content {
+    width: 100%;
+  }
+
+  #header #headerLeft #logo {
+    margin-top: 16px;
+    margin-left: 12px;
+    margin-top: 18px;
+  }
+
+  #header #headerLeft #logo h1 {
+    font-size: 42px;
+    margin-bottom: 0;
+    padding-bottom: 2px;
+  }
+
+  #header #headerLeft #logo h2 {
+    font-size: 14px;
+  }
+
   .leftColumn .headline {
-    margin-bottom: 0px; }
+    margin-bottom: 0px;
+  }
+
   .portfolioWrap {
-    width: 100%; }
-    .portfolioWrap > p {
-      padding-left: 0;
-      padding-right: 0; }
-    .portfolioWrap .portfolioFrame {
-      width: 100%;
-      background-image: none;
-      border: 2px groove rgba(255, 255, 255, 0.35);
-      height: auto; }
-    .portfolioWrap .portfolioFrame {
-      margin-left: 0 !important; }
-    .portfolioWrap .portfolioFrame .content {
-      left: initial;
-      top: initial;
-      width: 100%;
-      height: auto;
-      padding: 0 !important; }
-    .portfolioWrap .portfolioFrame img {
-      width: 100%; } }
+    width: 100%;
+  }
+
+  .portfolioWrap>p {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .portfolioWrap .portfolioFrame {
+    width: 100%;
+    background-image: none;
+    border: 2px groove rgba(255, 255, 255, 0.35);
+    height: auto;
+  }
+
+  .portfolioWrap .portfolioFrame {
+    margin-left: 0 !important;
+  }
+
+  .portfolioWrap .portfolioFrame .content {
+    left: initial;
+    top: initial;
+    width: 100%;
+    height: auto;
+    padding: 0 !important;
+  }
+
+  .portfolioWrap .portfolioFrame img {
+    width: 100%;
+  }
+}
 
 @media screen and (max-width: 768px) {
   #circles {
-    display: none; }
+    display: none;
+  }
+
   #home-photo {
-    float: none; } }
+    float: none;
+  }
+}
 
 @media screen and (orientation: portrait) and (max-width: 768px) {
   #footer .footerQ {
-    width: 100%; } }
+    width: 100%;
+  }
+}

@@ -1,5 +1,5 @@
 <script type="text/javascript">
-	$(function(){
+	$(function() {
 		$("#primary-nav a[href='/#!/home']").parent().addClass('active');
 	});
 </script>
@@ -13,7 +13,7 @@
 	<div class="rightColumn">
 		<div id="tux" class="animated flipInX hide-mobile"></div>
 		<div id="circles">
-			<a href="/#!/services"><img src="images/icons/google-seo.png" class="icon_seo animated flipInX" alt="Search Engine Optimization"/></a>
+			<a href="/#!/services"><img src="images/icons/google-seo.png" class="icon_seo animated flipInX" alt="Search Engine Optimization" /></a>
 			<a href="/#!/services"><img src="images/icons/ecommerce.png" class="icon_ecommerce animated flipInX" alt="E-Commerce Solutions" /></a>
 			<a href="/#!/services"><img src="images/icons/responsive-web-design.png" class="icon_design animated flipInX" alt="Website Design" /></a>
 			<a href="/#!/services"><img src="images/icons/graphic-design.png" class="icon_development animated flipInX" alt="Custom Web Application Development" /></a>

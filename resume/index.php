@@ -24,7 +24,7 @@
 			<div class="col-xs-12">
 				<p>
 					Life-long web developer with a keen sense of user experience seeking new and exciting opportunities.
-					Passionate about developing new industry-specific ideas into tangible online products and services. 
+					Passionate about developing new industry-specific ideas into tangible online products and services.
 				</p>
 			</div>
 		</div>

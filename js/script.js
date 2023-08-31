@@ -1,17 +1,17 @@
-$(function(){
-	$(".scrollBottom").click(function(){
+$(function () {
+	$(".scrollBottom").click(function () {
 		var st = $("#footer").offset().top;
-		$("html,body").animate({scrollTop:st},"slow", function(){
+		$("html,body").animate({ scrollTop: st }, "slow", function () {
 			//$("#footer img").effect("bounce",{times:2},300);
 		});
 	});
 
 	$('#primary-nav a').hashBangBoom({
-		selector:'#main .content:first',
+		selector: '#main .content:first',
 		loaded: afterLoad,
 		ignore: '/contact',
 		complete: afterSlide,
-		click:selectTab
+		click: selectTab
 	});
 
 	//Assign handlers to the simple direction handlers.
@@ -25,53 +25,53 @@ $(function(){
 	//$("#main").swipe( swipeOptions );
 
 	// Hamburger button
-	$('#hamburger-button').on('click', function(){
+	$('#hamburger-button').on('click', function () {
 		$('body').toggleClass('hamburger-open');
 	});
-	$('#primary-nav li a').on('click', function(){
+	$('#primary-nav li a').on('click', function () {
 		$('body').removeClass('hamburger-open');
 	});
 });
 
 function afterLoad() {
-	$('html.js #content .wrap').css('visibility','visible');
+	$('html.js #content .wrap').css('visibility', 'visible');
 }
 
 function afterSlide() {
-	var url=document.location.hash.replace('#!/','');
-	$('a[href="/#!/'+url+'"]').parent().addClass('selected');
+	var url = document.location.hash.replace('#!/', '');
+	$('a[href="/#!/' + url + '"]').parent().addClass('selected');
 	$(".accordionHeader").toggle(
-		function(){
+		function () {
 			$(".accordionContent").slideDown();
 		},
-		function(){
+		function () {
 			$(".accordionContent").slideUp();
 		}
 	);
 
-	$("html,body").delay(600).animate({scrollTop:0},"slow");
+	$("html,body").delay(600).animate({ scrollTop: 0 }, "slow");
 }
 
 function getNextURL() {
-	var curr=currNavPos();
+	var curr = currNavPos();
 	var target;
-	if (curr==$('#primary-nav li').length-1) {
-		target=0;
+	if (curr == $('#primary-nav li').length - 1) {
+		target = 0;
 	} else {
-		target=curr+1;
+		target = curr + 1;
 	}
-	window.location.href=$('#primary-nav li a')[target].href;
+	window.location.href = $('#primary-nav li a')[target].href;
 }
 
 function getPrevURL() {
-	var curr=currNavPos();
+	var curr = currNavPos();
 	var target;
-	if (curr==0) {
-		target=$('#primary-nav li').length-1;
+	if (curr == 0) {
+		target = $('#primary-nav li').length - 1;
 	} else {
-		target=curr-1;
+		target = curr - 1;
 	}
-	window.location.href=$('#primary-nav li a')[target].href;
+	window.location.href = $('#primary-nav li a')[target].href;
 }
 
 function currNavPos() {
@@ -80,6 +80,6 @@ function currNavPos() {
 
 function selectTab(url) {
 	$('#primary-nav li').removeClass('active');
-	url=url.split('/')[0];
-	$('a[href="/#!/'+url+'"]').parent().addClass('active');
+	url = url.split('/')[0];
+	$('a[href="/#!/' + url + '"]').parent().addClass('active');
 }
