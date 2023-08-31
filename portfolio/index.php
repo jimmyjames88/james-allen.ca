@@ -144,17 +144,12 @@
 	<div class="portfolioWrap animated flipInX">
 		<div class="portfolioFrame">
 			<div class="content">
-				<a href="http://retiremyridecalgary.com" target="_blank"><img src="images/portfolio/retiremyride/preview.jpg" alt="Retire My Ride Calgary vehicle recycling service" /></a>
+				<a href="http://retiremyridecalgary.james-allen.ca" target="_blank"><img src="images/portfolio/retiremyride/preview.jpg" alt="Retire My Ride Calgary vehicle recycling service" /></a>
 			</div>
 		</div>
-		<h3><a href="http://retiremyridecalgary.com" target="_blank">Retire My Ride Calgary Website &amp; Google Adwords</a></h3>
+		<h3><a href="http://retiremyridecalgary.james-allen.ca" target="_blank">Retire My Ride Calgary Website &amp; Google Adwords</a></h3>
 
 		<p>Custom built mobile-responsive design leveraging Bulma. Utilized VueJS for iterated visual components. </p>
-		<p>
-			<a href="https://github.com/jimmyjames88/retiremyridecalgary.com" target="_blank">
-				<i class="fab fa-github"></i> View it on GitHub
-			</a>
-		</p>
 		<p>
 			<span class="label label-primary">HTML5</span>
 			<span class="label label-warning">CSS3</span>
