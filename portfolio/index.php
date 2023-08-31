@@ -122,10 +122,10 @@
 	<div class="portfolioWrap animated flipInX">
 		<div class="portfolioFrame">
 			<div class="content">
-				<a href="http://portagedelivers.com/" target="_blank"><img src="images/portfolio/portage/preview.jpg" alt="Portage Peer-2-Peer Delivery" /></a>
+				<a href="http://portage.james-allen.ca" target="_blank"><img src="images/portfolio/portage/preview.jpg" alt="Portage Peer-2-Peer Delivery" /></a>
 			</div>
 		</div>
-		<h3><a href="http://portagedelivers.com" target="_blank">Portage website &amp; written content</a></h3>
+		<h3><a href="http://portage.james-allen.ca" target="_blank">Portage website &amp; written content</a></h3>
 
 		<p>Portage, a simple website to connect senders and travellers. Provided a simple admin panel built in Laravel for managing 'Senders' and 'Porters'. </p>
 		<p>
@@ -162,10 +162,10 @@
 	<div class="portfolioWrap animated flipInX">
 		<div class="portfolioFrame">
 			<div class="content">
-				<a href="http://saferidevictoria.com" target="_blank"><img src="images/portfolio/saferide/preview.jpg" alt="SafeRide Victoria designated drivers" /></a>
+				<img src="images/portfolio/saferide/preview.jpg" alt="SafeRide Victoria designated drivers" />
 			</div>
 		</div>
-		<h3><a href="http://saferidevictoria.com" target="_blank">Safe Ride Victoria Website</a></h3>
+		<h3>Safe Ride Victoria Website</h3>
 		<p>Leveraging a Bootstrap-based template I was able to provide Safe Ride a clean, mobile-responsive website at an excellent price!</p>
 		<p>
 			<span class="label label-primary">HTML5</span>
