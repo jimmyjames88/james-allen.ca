@@ -42,10 +42,10 @@
 	<div class="portfolioWrap animated flipInX">
       <div class="portfolioFrame">
         <div class="content">
-  		  <a href="http://triquestndt.com/" target="_blank"><img src="images/portfolio/triquestndt/preview.jpg" alt="TriQuest NDT Nondestructive Testing services serving Alberta" /></a>
+  		  <a href="http://triquestndt.james-allen.ca/" target="_blank"><img src="images/portfolio/triquestndt/preview.jpg" alt="TriQuest NDT Nondestructive Testing services serving Alberta" /></a>
         </div>
       </div>
-      <h3><a href="http://triquestndt.com" target="_blank">TriQuest NDT website &amp; SEO</a></h3>
+      <h3><a href="http://triquestndt.james-allen.ca/" target="_blank">TriQuest NDT website &amp; SEO</a></h3>
 
   	<p>
 		Custom mobile-responsive design built collaboratively with the client. Built as a Single Page Application using Vue.js, but utilizes npm-prerender-spa to produce pre-compiled pages at every route. The result is a Vue.js powered, SEO friendly website.
