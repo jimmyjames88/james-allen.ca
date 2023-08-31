@@ -350,12 +350,10 @@
 	<div class="portfolioWrap animated flipInX">
 		<div class="portfolioFrame">
 			<div class="content">
-				<a href="http://www.okotokspizza.ca" target="_blank"><img src="images/portfolio/okotokspizza/preview.png" /></a>
+				<img src="images/portfolio/okotokspizza/preview.png" />
 			</div>
 		</div>
-		<h3>
-			<a href="http://www.okotokspizza.ca" target="_blank">Okotoks Pizza Logo</a>
-		</h3>
+		<h3>Okotoks Pizza Logo</h3>
 		<p>
 			Okotoks Pizza & Pasta required a bold new logo after a change in ownership.
 		</p>
