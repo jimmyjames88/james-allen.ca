@@ -260,13 +260,15 @@
 	<div class="portfolioWrap animated flipInX">
 		<div class="portfolioFrame">
 			<div class="content">
-				<a href="http://calgaryscrapautoremoval.com" target="_blank"><img src="images/portfolio/calgaryscrapautoremoval/preview.jpg" alt="Calgary Scrap Auto Removal get paid cash for your junk car" /></a>
+				<a href="http://calgaryscrapautoremoval.james-allen.ca" target="_blank">
+					<img src="images/portfolio/calgaryscrapautoremoval/preview.jpg" alt="Calgary Scrap Auto Removal get paid cash for your junk car" />
+				</a>
 			</div>
 		</div>
-		<h3><a href="http://calgaryscrapautoremoval.com" target="_blank">Calgary Scrap Auto Removal Website &amp; Google Adwords</a></h3>
+		<h3><a href="http://calgaryscrapautoremoval.james-allen.ca" target="_blank">Calgary Scrap Auto Removal Website &amp; Google Adwords</a></h3>
 		<p>
-			Calgary Scrap Auto Removal is my oldest client. We recently redesigned their existing website using a mobile-responsive Bootstrap theme, as to provide their mobile visitors
-			with the best experience. We also took the opportunity to revise their existing AdWords campaign to help maximize ROI.
+			Calgary Scrap Auto Removal wanted a fresh new design to drive business leads. Taking queues from their original website, I implemented mobile-responsive Bootstrap theme with the Quote form
+			placed from and center. Additionally I revised their existing AdWords campaign to help maximize ROI.
 		</p>
 		<p>
 			<span class="label label-primary">HTML5</span>
@@ -280,10 +282,10 @@
 	<div class="portfolioWrap animated flipInX">
 		<div class="portfolioFrame">
 			<div class="content">
-				<a href="projects/AthleteBookLanding" target="_blank"><img src="images/portfolio/athletebooklanding/preview.jpg" /></a>
+				<img src="images/portfolio/athletebooklanding/preview.jpg" />
 			</div>
 		</div>
-		<h3><a href="http://athletebook.ca" target="_blank">AthleteBook.ca Contest Landing Page</a></h3>
+		<h3>AthleteBook.ca Contest Landing Page</h3>
 		<p>
 			This pre-launch promotional page was used to collect email addresses of people who were interested in the AthleteBook concept, so launch information could be announced.
 		</p>
@@ -362,18 +364,16 @@
 	<div class="portfolioWrap animated flipInX">
 		<div class="portfolioFrame">
 			<div class="content">
-				<a href="http://www.racethebase.ca" target="_blank"><img src="images/portfolio/racethebase/preview.png" /></a>
+				<img src="images/portfolio/racethebase/preview.png" />
 			</div>
 		</div>
-		<h3>
-			<a href="http://www.racethebase.ca" target="_blank">Race The Base 2012 Website Development & Registration Form</a>
-		</h3>
+		<h3>Race The Base 2012 Website Development & Registration Form</h3>
 
 		<p>
-			<strong>[Website Inactive]</strong> This years website for the well-known fundraiser Race the Base was done in collaboration with Trevor at
+			This years website for the well-known fundraiser Race the Base was done in collaboration with Trevor at
 			<a href="http://www.fuelcreative.ca" target="_blank">Fuel Creative</a> who handled the majority of design elements and managed the project.
 			My contributions to the project include skinning and coding the provided design, content page creation, and most notably creating an online registration form.
-			The <a href="http://racethebase.ca/?go=registration-html-form" target="_blank">registration form</a> collected a robust amount of competitors information, driver
+			The form collected a robust amount of competitors information, driver
 			and car image uploading, intelligent form validation, and entry fee tabulation complete with a PayPal payment gateway.
 		</p>
 
@@ -388,14 +388,12 @@
 	<div class="portfolioWrap animated flipInX">
 		<div class="portfolioFrame">
 			<div class="content">
-				<a href="http://www.yummymummysaver.com" target="_blank"><img src="images/portfolio/yummymummysaver/preview.png" /></a>
+				<img src="images/portfolio/yummymummysaver/preview.png" />
 			</div>
 		</div>
-		<h3>
-			<a href="http://www.yummymummysaver.com" target="_blank">Yummy Mummy Saver Logo & Website</a>
-		</h3>
+		<h3>Yummy Mummy Saver Logo & Website</h3>
 		<p>
-			<strong>[Website Inactive]</strong>Yummy Mummy Saver is a "group buy" website targetted towards moms. They offer lots of great deal on spa treaments, house cleaning,
+			Yummy Mummy Saver was a "group buy" website targetted towards moms. They offer lots of great deal on spa treaments, house cleaning,
 			and more! I re-themed their website which runs on PHP GroupScript, setup mailing list integration with MailChimp API, and provided them with a re-polished logo.
 		</p>
 		<p>
