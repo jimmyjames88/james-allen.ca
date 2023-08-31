@@ -20,62 +20,104 @@
 	<h1 class="title">Portfolio</h1>
 
 	<div class="portfolioWrap animated flipInX">
-      <div class="portfolioFrame">
-        <div class="content">
-  		  <img src="images/portfolio/freebooks/preview.jpg" />
-        </div>
-      </div>
-      <h3>FreeBooks - Free invoicing &amp; bookkeeping for freelancers</h3>
+		<div class="portfolioFrame">
+			<div class="content">
+			<a href="images/portfolio/norkraft/site-gallery.jpg" data-fancybox="norkraft" rel="fancybox">
+				<img src="images/portfolio/norkraft/site-gallery.jpg" />
+			</a>
+			<a href="images/portfolio/norkraft/site-gallery-view.jpg" data-fancybox="norkraft" rel="fancybox"></a>
+			<a href="images/portfolio/norkraft/site-gallery-view-photo.jpg" data-fancybox="norkraft" rel="fancybox"></a>
+			<a href="images/portfolio/norkraft/admin-banners.png" data-fancybox="norkraft" rel="fancybox"></a>
+			<a href="images/portfolio/norkraft/admin-projects.png" data-fancybox="norkraft" rel="fancybox"></a>
+			<a href="images/portfolio/norkraft/admin-projects-edit.png" data-fancybox="norkraft" rel="fancybox"></a>
+			<a href="images/portfolio/norkraft/admin-projects-edit2.png" data-fancybox="norkraft" rel="fancybox"></a>
+			</div>
+		</div>
+		<h3><a href="images/portfolio/cocobrooks/tv-menu_01.jpg" class="fancybox-proxy">Norkraft.ca</a></h3>
+  	<p>Norkraft is a small business in need of a website to showcase their work, with the ability
+			to manage their gallery and banner images with ease. The client was not interested in using
+			any off-the-shelf solution.
+			
+		<p>
+			Leveraging Laravel auth scaffolding and Vue components, I created a simple-to-use admin panel
+			to meet the client's specific criteria. Delivered on time, and on budget!
+		</p>
+		<p>
+			<a href="https://github.com/jimmyjames88/norkraft.ca" target="_blank">
+				<i class="fab fa-github"></i> View it on GitHub
+			</a>
+		</p>
+  	<p>
+  		<span class="label label-info">Laravel</span>
+  		<span class="label label-success">VueJS</span>
+  		<span class="label label-warning">Bootstrap</span>
+  		<span class="label label-primary">Figma</span>
+  	</p>
+	</div>
+
+	<div class="portfolioWrap animated flipInX">
+		<div class="portfolioFrame">
+			<div class="content">
+			<img src="images/portfolio/freebooks/preview.jpg" />
+			</div>
+		</div>
+		<h3>FreeBooks - Free invoicing &amp; bookkeeping for freelancers</h3>
 
   	<p>
-		Where all my free time goes... Clean. Easy. Free... Coming soon...
-	</p>
+			Where all my free time goes... Clean. Easy. Free... Coming soon...
+		</p>
   	<p>
   		<span class="label label-primary">HTML5</span>
   		<span class="label label-warning">CSS3</span>
   		<span class="label label-warning">Bulma</span>
   		<span class="label label-success">VueJS</span>
-		<span class="label label-info">Laravel</span>
-  	</p>
+			<span class="label label-info">Laravel</span>
+			</p>
     </div>
 
 	<div class="portfolioWrap animated flipInX">
-      <div class="portfolioFrame">
-        <div class="content">
-  		  <a href="http://triquestndt.james-allen.ca/" target="_blank"><img src="images/portfolio/triquestndt/preview.jpg" alt="TriQuest NDT Nondestructive Testing services serving Alberta" /></a>
-        </div>
-      </div>
-      <h3><a href="http://triquestndt.james-allen.ca/" target="_blank">TriQuest NDT website &amp; SEO</a></h3>
+		<div class="portfolioFrame">
+			<div class="content">
+				<a href="http://triquestndt.james-allen.ca/" target="_blank"><img src="images/portfolio/triquestndt/preview.jpg" alt="TriQuest NDT Nondestructive Testing services serving Alberta" /></a>
+			</div>
+		</div>
+		<h3><a href="http://triquestndt.james-allen.ca/" target="_blank">TriQuest NDT website &amp; SEO</a></h3>
 
   	<p>
-		Custom mobile-responsive design built collaboratively with the client. Built as a Single Page Application using Vue.js, but utilizes npm-prerender-spa to produce pre-compiled pages at every route. The result is a Vue.js powered, SEO friendly website.
-	</p>
-	<p>
+			Custom mobile-responsive design built collaboratively with the client. Built as a Single Page
+			Application using Vue.js, but utilizes npm-prerender-spa to produce pre-compiled pages at 
+			every route. The result is a Vue.js powered, SEO friendly website.
+		</p>
+		<p>
+			<a href="https://github.com/jimmyjames88/triquest.com" target="_blank">
+				<i class="fab fa-github"></i> View it on GitHub
+			</a>
+		</p>
+		<p>
   		<span class="label label-primary">HTML5</span>
   		<span class="label label-warning">CSS3</span>
   		<span class="label label-warning">Bulma</span>
   		<span class="label label-success">VueJS</span>
   	</p>
-    </div>
+	</div>
 
 	<div class="portfolioWrap animated flipInX">
-      <div class="portfolioFrame">
-        <div class="content">
+		<div class="portfolioFrame">
+			<div class="content">
 			<a href="images/portfolio/cocobrooks/preview.jpg" data-fancybox="cocobrooks" rel="fancybox">
-  			  <img src="images/portfolio/cocobrooks/preview.jpg" />
-  		  </a>
-		  <a href="images/portfolio/cocobrooks/tv-menu_01.jpg" data-fancybox="cocobrooks" rel="fancybox"></a>
-  		  <a href="images/portfolio/cocobrooks/tv-menu_02.jpg" data-fancybox="cocobrooks" rel="fancybox"></a>
-		  <a href="images/portfolio/cocobrooks/tv-menu_03.jpg" data-fancybox="cocobrooks" rel="fancybox"></a>
-        </div>
-      </div>
-      <h3><a href="images/portfolio/cocobrooks/tv-menu_01.jpg" class="fancybox-proxy">Coco Brooks Express digital menu board</a></h3>
-
-  	<p></p>
+				<img src="images/portfolio/cocobrooks/preview.jpg" />
+			</a>
+			<a href="images/portfolio/cocobrooks/tv-menu_01.jpg" data-fancybox="cocobrooks" rel="fancybox"></a>
+			<a href="images/portfolio/cocobrooks/tv-menu_02.jpg" data-fancybox="cocobrooks" rel="fancybox"></a>
+			<a href="images/portfolio/cocobrooks/tv-menu_03.jpg" data-fancybox="cocobrooks" rel="fancybox"></a>
+			</div>
+		</div>
+		<h3><a href="images/portfolio/cocobrooks/tv-menu_01.jpg" class="fancybox-proxy">Coco Brooks Express digital menu board</a></h3>
+  	<p>&nbsp;</p>
   	<p>
   		<span class="label label-primary">Photoshop</span>
   	</p>
-    </div>
+	</div>
 
 	<div class="portfolioWrap animated flipInX">
       <div class="portfolioFrame">
@@ -85,7 +127,12 @@
       </div>
       <h3><a href="http://portagedelivers.com" target="_blank">Portage website &amp; written content</a></h3>
 
-  	<p>Bootstrap templated HTML website. Reworded and reorganized client provided content.</p>
+  	<p>Portage, a simple website to connect senders and travellers. Provided a simple admin panel built in Laravel for managing 'Senders' and 'Porters'. </p>
+		<p>
+			<a href="https://github.com/jimmyjames88/portage.ca" target="_blank">
+				<i class="fab fa-github"></i> View it on GitHub
+			</a>
+		</p>
   	<p>
   		<span class="label label-primary">HTML5</span>
   		<span class="label label-warning">CSS3</span>
@@ -103,6 +150,11 @@
       <h3><a href="http://retiremyridecalgary.com" target="_blank">Retire My Ride Calgary Website &amp; Google Adwords</a></h3>
 
   	<p>Custom built mobile-responsive design leveraging Bulma. Utilized VueJS for iterated visual components. </p>
+		<p>
+			<a href="https://github.com/jimmyjames88/retiremyridecalgary.com" target="_blank">
+				<i class="fab fa-github"></i> View it on GitHub
+			</a>
+		</p>
   	<p>
   		<span class="label label-primary">HTML5</span>
   		<span class="label label-warning">CSS3</span>
