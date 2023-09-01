@@ -19,7 +19,7 @@
 
 	<h1 class="title">Portfolio</h1>
 
-	<div class="portfolioWrap animated flipInX">
+	<!-- <div class="portfolioWrap animated flipInX">
 		<div class="portfolioFrame">
 			<div class="content">
 				<a href="images/portfolio/norkraft/site-gallery.jpg" data-fancybox="norkraft" rel="fancybox">
@@ -53,7 +53,7 @@
 			<span class="label label-warning">Bootstrap</span>
 			<span class="label label-primary">Figma</span>
 		</p>
-	</div>
+	</div> -->
 
 	<div class="portfolioWrap animated flipInX">
 		<div class="portfolioFrame">
