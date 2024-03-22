@@ -31,7 +31,7 @@
     </div>
 
     <div class="serviceWrap col-sm-6 col-md-6 animated flipInX">
-      <img src="images/icons/graphic-design.png" />
+      <img src="images/icons/graphic-design.png" alt="Graphic design" />
       <div>
         <h2>Graphic Design</h2>
         <p>Stand out from the crowd! Make your competition jealous! I offer quality creative design services for both print and web applications. </p>

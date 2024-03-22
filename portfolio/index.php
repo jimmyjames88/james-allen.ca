@@ -58,7 +58,7 @@
 	<div class="portfolioWrap animated flipInX">
 		<div class="portfolioFrame">
 			<div class="content">
-				<img src="images/portfolio/freebooks/preview.jpg" />
+				<img src="images/portfolio/freebooks/preview.jpg" alt="Preview of FreeBooks project" />
 			</div>
 		</div>
 		<h3>FreeBooks - Free invoicing &amp; bookkeeping for freelancers</h3>
@@ -105,7 +105,7 @@
 		<div class="portfolioFrame">
 			<div class="content">
 				<a href="images/portfolio/cocobrooks/preview.jpg" data-fancybox="cocobrooks" rel="fancybox">
-					<img src="images/portfolio/cocobrooks/preview.jpg" />
+					<img src="images/portfolio/cocobrooks/preview.jpg" alt="Coco Brooks menu boards" />
 				</a>
 				<a href="images/portfolio/cocobrooks/tv-menu_01.jpg" data-fancybox="cocobrooks" rel="fancybox"></a>
 				<a href="images/portfolio/cocobrooks/tv-menu_02.jpg" data-fancybox="cocobrooks" rel="fancybox"></a>
@@ -178,7 +178,7 @@
 		<div class="portfolioFrame">
 			<div class="content">
 				<a href="images/portfolio/creativedoor/1.jpg" data-fancybox="creativedoor" rel="fancybox">
-					<img src="images/portfolio/creativedoor/preview.jpg" />
+					<img src="images/portfolio/creativedoor/preview.jpg" alt="CreativeDoor Visualizer development project" />
 				</a>
 				<a href="images/portfolio/creativedoor/2.jpg" data-fancybox="creativedoor" rel="fancybox"></a>
 				<a href="images/portfolio/creativedoor/3.jpg" data-fancybox="creativedoor" rel="fancybox"></a>
@@ -209,7 +209,7 @@
 		<div class="portfolioFrame">
 			<div class="content">
 				<a href="images/portfolio/emser/1.jpg" data-fancybox="/emsertile" rel="fancybox">
-					<img src="images/portfolio/emser/preview.jpg" />
+					<img src="images/portfolio/emser/preview.jpg" alt="Emser tile design and development project" />
 				</a>
 				<a href="images/portfolio/emser/2.jpg" data-fancybox="/emsertile" rel="fancybox"></a>
 				<a href="images/portfolio/emser/3.jpg" data-fancybox="/emsertile" rel="fancybox"></a>
@@ -237,7 +237,7 @@
 		<div class="portfolioFrame">
 			<div class="content">
 				<a href="images/portfolio/homeplayprime/1.jpg" data-fancybox="homeplayprime" rel="fancybox">
-					<img src="images/portfolio/homeplayprime/preview.jpg" />
+					<img src="images/portfolio/homeplayprime/preview.jpg" alt="HomePlay Prime visualizer development project" />
 				</a>
 				<a href="images/portfolio/homeplayprime/2.jpg" data-fancybox="homeplayprime" rel="fancybox"></a>
 				<a href="images/portfolio/homeplayprime/3.jpg" data-fancybox="homeplayprime" rel="fancybox"></a>
@@ -282,7 +282,7 @@
 	<div class="portfolioWrap animated flipInX">
 		<div class="portfolioFrame">
 			<div class="content">
-				<img src="images/portfolio/athletebooklanding/preview.jpg" />
+				<img src="images/portfolio/athletebooklanding/preview.jpg" alt="AthleteBook promotional/marketing page design" />
 			</div>
 		</div>
 		<h3>AthleteBook.ca Contest Landing Page</h3>
@@ -300,7 +300,7 @@
 		<div class="portfolioFrame">
 			<div class="content">
 				<a href="/images/portfolio/westerninspection/western-portfolio.png" rel="fancybox">
-					<img src="images/portfolio/westerninspection/western-portfolio.png" />
+					<img src="images/portfolio/westerninspection/western-portfolio.png" alt="Western inspection logo design" />
 				</a>
 			</div>
 		</div>
@@ -337,7 +337,7 @@
 	<div class="portfolioWrap animated flipInX">
 		<div class="portfolioFrame">
 			<div class="content">
-				<a href="/images/portfolio/lionspc/lions-logo-lowres-2.png" rel="fancybox"><img src="images/portfolio/lionspc/preview.png" /></a>
+				<a href="/images/portfolio/lionspc/lions-logo-lowres-2.png" rel="fancybox"><img src="images/portfolio/lionspc/preview.png" alt="Custom logo design for Lion's PC" /></a>
 			</div>
 		</div>
 		<a href="/images/portfolio/lionspc/lions-logo-lowres-2.png" rel="fancybox">
@@ -352,7 +352,7 @@
 	<div class="portfolioWrap animated flipInX">
 		<div class="portfolioFrame">
 			<div class="content">
-				<img src="images/portfolio/okotokspizza/preview.png" />
+				<img src="images/portfolio/okotokspizza/preview.png" alt="Logo design for Okotoks Pizza" />
 			</div>
 		</div>
 		<h3>Okotoks Pizza Logo</h3>
@@ -364,7 +364,7 @@
 	<div class="portfolioWrap animated flipInX">
 		<div class="portfolioFrame">
 			<div class="content">
-				<img src="images/portfolio/racethebase/preview.png" />
+				<img src="images/portfolio/racethebase/preview.png" class="Interactive registration form development project for RaceTheBase" />
 			</div>
 		</div>
 		<h3>Race The Base 2012 Website Development & Registration Form</h3>
@@ -388,7 +388,7 @@
 	<div class="portfolioWrap animated flipInX">
 		<div class="portfolioFrame">
 			<div class="content">
-				<img src="images/portfolio/yummymummysaver/preview.png" />
+				<img src="images/portfolio/yummymummysaver/preview.png" alt="Custom GroupScript theme design and logo for YummyMummySaver" />
 			</div>
 		</div>
 		<h3>Yummy Mummy Saver Logo & Website</h3>
@@ -405,7 +405,7 @@
 	<div class="portfolioWrap animated flipInX">
 		<div class="portfolioFrame">
 			<div class="content">
-				<a href="images/portfolio/heatherrobertson-clairerae/full.png" rel="fancybox"><img src="images/portfolio/heatherrobertson-clairerae/preview.png" /></a>
+				<a href="images/portfolio/heatherrobertson-clairerae/full.png" rel="fancybox"><img src="images/portfolio/heatherrobertson-clairerae/preview.png" alt="Promotional material design for fitness models" /></a>
 			</div>
 		</div>
 		<h3>
@@ -420,7 +420,7 @@
 	<div class="portfolioWrap animated flipInX">
 		<div class="portfolioFrame">
 			<div class="content">
-				<a href="images/portfolio/myhairstylist/full.jpg" rel="fancybox"><img src="images/portfolio/myhairstylist/preview.png" /></a>
+				<a href="images/portfolio/myhairstylist/full.jpg" rel="fancybox"><img src="images/portfolio/myhairstylist/preview.png" alt="Website design for MyHairStylist" /></a>
 			</div>
 		</div>
 		<h3>
@@ -436,7 +436,7 @@
 	<div class="portfolioWrap animated flipInX">
 		<div class="portfolioFrame">
 			<div class="content">
-				<a href="/images/portfolio/vap/vap-fullsize.jpg" rel="fancybox"><img src="images/portfolio/vap/preview.png" /></a>
+				<a href="/images/portfolio/vap/vap-fullsize.jpg" rel="fancybox"><img src="images/portfolio/vap/preview.png" alt="Custom logo design for VaP" /></a>
 			</div>
 		</div>
 		<a href="/images/portfolio/vap/vap-fullsize.jpg" rel="fancybox">

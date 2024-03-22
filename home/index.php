@@ -23,7 +23,7 @@
 	<div>
 		<h1>Welcome to my Portfolio!</h1>
 		<div id="home-photo" class="hide-mobile">
-			<img src="images/james.jpg" class="photo" /><br /><br />
+			<img src="images/james.jpg" class="photo" alt="A photo of James beating up some kids!" /><br /><br />
 			<span class="sub">Here's a picture of me beating up some little kids!</span>
 		</div>
 		<p>Hello, my name is James Allen. I'm a website developer from Calgary, Alberta. </p>
