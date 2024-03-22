@@ -69,7 +69,7 @@
 					<li><a href="#!/home">Home</a></li>
 					<li><a href="#!/services">Services</a></li>
 					<li><a href="#!/portfolio">Portfolio</a></li>
-					<li><a href="/resume/Resume-James-Allen-20230830.pdf" target="_blank">Resume</a></li>
+					<li><a href="/resume/Resume-James-Allen.pdf" target="_blank">Resume</a></li>
 					<li><a href="#!/contact" class="scrollBottom">Contact</a></li>
 				</ul>
 				<div id="hamburger-button" class="hide-desktop">Menu </div>

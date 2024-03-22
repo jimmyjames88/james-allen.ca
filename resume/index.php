@@ -1,4 +1,4 @@
-<div class="content paper">
+<!-- <div class="content paper">
 
 	<div class="">
 		<div class="row">
@@ -223,4 +223,4 @@
 
 	</div>
 
-</div>
+</div> -->
