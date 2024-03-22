@@ -1,5 +1,4 @@
 User-agent: *
-Disallow: 
 Disallow: /cgi-bin/
 Disallow: /images/
 Sitemap: https://james-allen.ca/sitemap.xml
