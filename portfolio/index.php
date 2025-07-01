@@ -58,6 +58,46 @@
 	<div class="portfolioWrap animated flipInX">
 		<div class="portfolioFrame">
 			<div class="content">
+				<a href="https://renoodles.com"
+					title="Renoodles - Subscription & feature flag management for SaaS start-ups and developers"
+					target="_blank">
+					<img src="images/portfolio/renoodles/preview.png"
+						alt="Renoodles - Subscription & feature flag management for SaaS start-ups and developers" />
+				</a>
+			</div>
+		</div>
+		<h3>
+			<a href="https://renoodles.com"
+				title="Renoodles - Subscription & feature flag management for SaaS start-ups and developers"
+				target="_blank">
+				Renoodles - Subscription & feature flag management for SaaS start-ups and developers
+			</a>
+		</h3>
+		<p>
+			Renoodles is a SaaS layer that bridges the gap between developers and Stripe. While Stripe
+			handles payment processing, Renoodles adds critical missing infrastructure like feature
+			flags, usage tracking, and app-level subscription logic—without requiring devs to reinvent 
+			the wheel. It's designed for SaaS builders who want to move faster without sacrificing 
+			flexibility.
+		</p>
+		<p>
+			What sets Renoodles apart is its generous, no time-limit free tier, giving developers full
+			access to every feature while usage remains low. It also includes a multi-tenant dashboard, 
+			allowing users to manage multiple apps and their subscribers from one unified interface. 
+			And with built-in subscription health monitoring and payment recovery workflows, Renoodles 
+			helps rescue at-risk revenue before it’s lost.
+		</p>
+		<p>
+			<span class="label label-success">Node/Express</span>
+			<span class="label label-info">React</span>
+			<span class="label label-primary">PostgreSQL</span>
+			<span class="label label-warning">Tailwind</span>
+		</p>
+	</div>
+
+	<div class="portfolioWrap animated flipInX">
+		<div class="portfolioFrame">
+			<div class="content">
 				<img src="images/portfolio/freebooks/preview.jpg" alt="Preview of FreeBooks project" />
 			</div>
 		</div>
